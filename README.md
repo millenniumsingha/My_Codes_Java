@@ -16,12 +16,23 @@ A showcase of Java mini-applications (Swing GUI).
 
 ## 📦 Applications Included
 
-| App | Description |
-|-----|-------------|
-| **BattleShips** | Classic naval battle game vs computer AI |
-| **Cipher Tool** | Caesar cipher encryption/decryption with live preview |
-| **Trip Planner** | Budget calculator, timezone converter & distance calculator using Haversine formula |
-| **Odd/Even** | Quick odds and evens finger game against computer |
+## 📦 Applications Included
+
+### 1. Trip Planner
+*Budget calculator, timezone converter & distance calculator using Haversine formula.*
+![Trip Planner](screenshots/tripplanner.png)
+
+### 2. BattleShips
+*Classic naval battle game vs computer AI.*
+![BattleShips](screenshots/battleships.png)
+
+### 3. Cipher Tool
+*Caesar cipher encryption/decryption with live preview.*
+![Cipher Tool](screenshots/cipher.png)
+
+### 4. Odd/Even
+*Quick odds and evens finger game against computer.*
+![Odd/Even](screenshots/oddeven.png)
 
 ## 🛠️ Technology
 
