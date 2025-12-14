@@ -62,4 +62,4 @@ Reimplemented as a unified Swing application.
 
 ## 📄 License
 
-MIT License - feel free to use and modify.
+GNU General Public License v2.
