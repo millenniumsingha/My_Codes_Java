@@ -7,9 +7,12 @@ A showcase of Java mini-applications (Swing GUI).
 
 ## 🎮 Run Online
 
-[**▶️ Run on Replit**](https://replit.com/new/github/millenniumsingha/My_Codes_Java)
+[**▶️ Run on Replit**](https://replit.com/new/github/millenniumsingha/millennium_java_suite)
 
-*Click "Import" and then "Run" to launch the applications instantly in your browser.*
+*Instructions:*
+1. Click the link above and select **"Import"**.
+2. Once the editor loads, click the big green **"Run"** button.
+3. **Important:** If you see "No external ports", check the tabs above the preview window and switch to **"VNC"** to see the GUI.
 
 ## 📦 Applications Included
 
