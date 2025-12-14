@@ -16,23 +16,32 @@ A showcase of Java mini-applications (Swing GUI).
 
 ## 📦 Applications Included
 
-## 📦 Applications Included
-
-### 1. Trip Planner
-*Budget calculator, timezone converter & distance calculator using Haversine formula.*
-![Trip Planner](screenshots/tripplanner.png)
-
-### 2. BattleShips
-*Classic naval battle game vs computer AI.*
-![BattleShips](screenshots/battleships.png)
-
-### 3. Cipher Tool
-*Caesar cipher encryption/decryption with live preview.*
-![Cipher Tool](screenshots/cipher.png)
-
-### 4. Odd/Even
-*Quick odds and evens finger game against computer.*
-![Odd/Even](screenshots/oddeven.png)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">1. Trip Planner</h3>
+      <p align="center">Budget, Timezone & Distance Calculator</p>
+      <img src="artefacts/tripplanner.png" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">2. BattleShips</h3>
+      <p align="center">Classic Naval Strategy vs AI</p>
+      <img src="artefacts/battleships.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">3. Cipher Tool</h3>
+      <p align="center">Real-time Caesar Encryption</p>
+      <img src="artefacts/cipher.png" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">4. Odd/Even</h3>
+      <p align="center">Quick Odds & Evens Game</p>
+      <img src="artefacts/oddeven.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technology
 
