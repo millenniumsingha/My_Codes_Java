@@ -1,18 +1,15 @@
 # Java Playground
 
-A showcase of Java mini-applications that runs directly in the browser via [CheerpJ](https://cheerpj.com/).
+A showcase of Java mini-applications (Swing GUI).
 
-![Java](https://img.shields.io/badge/Java-11-orange)
+![Java](https://img.shields.io/badge/Java-11+-orange)
 ![Swing](https://img.shields.io/badge/GUI-Swing-blue)
-![CheerpJ](https://img.shields.io/badge/Runtime-CheerpJ%203.0-green)
 
-## 🎮 Live Demo
+## 🎮 Run Online
 
-[**▶️ Run on Replit (Recommended)**](https://replit.com/new/github/millenniumsingha/My_Codes_Java)
+[**▶️ Run on Replit**](https://replit.com/new/github/millenniumsingha/My_Codes_Java)
 
-*Click "Import" and then "Run" to launch the application instantly.*
-
-[View Static Demo (Firebase)](https://millennium-java-showcase.web.app) *(Note: Slow initial load)*
+*Click "Import" and then "Run" to launch the applications instantly in your browser.*
 
 ## 📦 Applications Included
 
@@ -25,11 +22,7 @@ A showcase of Java mini-applications that runs directly in the browser via [Chee
 
 ## 🛠️ Technology
 
-This project demonstrates:
-
 - **Java Swing** - Desktop GUI framework
-- **CheerpJ** - Java-to-WebAssembly runtime enabling browser execution
-- **Firebase Hosting** - Static file hosting
 - **Maven** - Build automation
 
 ## 🚀 Running Locally
@@ -43,14 +36,8 @@ This project demonstrates:
 # Build JAR
 mvn clean package
 
-# Run desktop version
+# Run
 java -jar target/JavaShowcase-1.0.jar
-
-# Or test web version
-cp target/JavaShowcase-1.0.jar web/app.jar
-cd web
-python3 -m http.server 8080
-# Open http://localhost:8080
 ```
 
 ## 📁 Project Structure
@@ -59,27 +46,9 @@ python3 -m http.server 8080
 java-showcase/
 ├── src/main/java/showcase/
 │   ├── App.java                 # Main entry, sidebar navigation
-│   └── panels/
-│       ├── BattleShipsPanel.java
-│       ├── CipherPanel.java
-│       ├── TripPlannerPanel.java
-│       └── OddEvenPanel.java
-├── web/
-│   ├── index.html               # CheerpJ loader
-│   └── app.jar                  # Built JAR (after compilation)
-├── pom.xml
+│   └── panels/                  # Individual app modules
+├── pom.xml                      # Maven build config
 └── README.md
-```
-
-## 🌐 Deployment
-
-```bash
-# Build
-mvn clean package
-cp target/JavaShowcase-1.0.jar web/app.jar
-
-# Deploy to Firebase
-firebase deploy --only hosting
 ```
 
 ## 📝 Origin
@@ -87,9 +56,9 @@ firebase deploy --only hosting
 These applications started as Java coursework exercises demonstrating:
 - Control flow and game logic (BattleShips, Odd/Even)
 - String manipulation and algorithms (Cipher)
-- Mathematical computations and Haversine formula (Trip Planner)
+- Mathematical computations (Trip Planner)
 
-Reimplemented as a unified Swing application to demonstrate GUI development and browser deployment capabilities.
+Reimplemented as a unified Swing application.
 
 ## 📄 License
 
