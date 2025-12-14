@@ -8,7 +8,11 @@ A showcase of Java mini-applications that runs directly in the browser via [Chee
 
 ## 🎮 Live Demo
 
-[View Live Demo](https://millennium-java-showcase.web.app)
+[**▶️ Run on Replit (Recommended)**](https://replit.com/new/github/millenniumsingha/My_Codes_Java)
+
+*Click "Import" and then "Run" to launch the application instantly.*
+
+[View Static Demo (Firebase)](https://millennium-java-showcase.web.app) *(Note: Slow initial load)*
 
 ## 📦 Applications Included
 
