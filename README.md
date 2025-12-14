@@ -8,7 +8,7 @@ A showcase of Java mini-applications that runs directly in the browser via [Chee
 
 ## 🎮 Live Demo
 
-[View Live Demo](https://YOUR_FIREBASE_URL.web.app)
+[View Live Demo](https://millennium-java-showcase.web.app)
 
 ## 📦 Applications Included
 
